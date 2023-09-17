@@ -6,10 +6,10 @@ movies that are similar in terms of content. Users can explore and discover new 
 # Features
 * Movie exploration and searching.
 * Movie recommendations based on content similarity.
-User-friendly web interface.
+ *User-friendly web interface.
 
 
 # Technologies Used
-Python.
-streamlit
-TMDb API (The Movie Database API) for movie data retrieval
+ * Python.
+* streamlit
+* TMDb API (The Movie Database API) for movie data retrieval
