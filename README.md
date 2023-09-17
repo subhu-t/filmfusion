@@ -4,8 +4,8 @@ on the content of the movies they enjoy. This system analyzes movie metadata, su
 movies that are similar in terms of content. Users can explore and discover new movies that align with their cinematic tastes.
 
 # Features
-Movie exploration and searching.
-Movie recommendations based on content similarity.
+* Movie exploration and searching.
+* Movie recommendations based on content similarity.
 User-friendly web interface.
 
 
